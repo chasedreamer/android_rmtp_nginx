@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/layout_drawer_list_item.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/layout_fragment_privacypolicy.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/layout/fragment_privacypolicy.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/raw_android_support_v4_preferencefragment.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/raw/android_support_v4_preferencefragment"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_ab_back_holo_dark.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-hdpi/ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable_card_item_bg.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable/card_item_bg.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/xml_nginx_manager.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/xml/nginx_manager.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_drawer.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/layout_card_item.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/layout/card_item.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_ab_back_holo_dark.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-mdpi/ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/layout_fragment_manager.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/layout/fragment_manager.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_refresh.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-xxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/layout_fragment_webview.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/raw_andorid_support_v4.txt.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/raw/andorid_support_v4.txt"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_ab_back_holo_dark.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-xhdpi/ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/raw_privacypolicy.txt.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/raw/privacypolicy.txt"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/raw_nginx.txt.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/raw/nginx.txt"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/build/intermediates/res/merged/debug/layout_preference_list_fragment.xml.flat",
+        "source": "/Users/lixingkun/red5/crtmpserver/nginx-android-app-AS/app/src/main/res/layout/preference_list_fragment.xml"
+    }
+]
